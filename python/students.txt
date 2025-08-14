@@ -1,0 +1,10 @@
+Ivan 4
+Maria 5
+Alesha 3
+Karina 1
+Dima 5
+Artyom 4
+Ilya 3
+Alex 3
+Pasha 5
+Kirill 2

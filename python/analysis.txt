@@ -1,0 +1,4 @@
+3 - Количество строк
+64 - Количество слов
+pneumonoultramicroscopicsilicovolcanoconiosis - Самое длинное слово
+

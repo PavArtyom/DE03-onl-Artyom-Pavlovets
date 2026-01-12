@@ -1,0 +1,4 @@
+employee_id,first_name,last_name,region,email,position
+201,Alice,Green,North,alice.green@example.com,Manager
+203,Sophie,Adams,North,sophie.adams@example.com,Senior Manager
+203,Sophie,Adams,South,sophie.adams@example.com,Manager
